@@ -1,0 +1,86 @@
+.form{
+	
+position:relative;
+width: 500px;
+height: 875px;
+padding-left: 20px;
+padding-top: 30px;
+background-color: #80FCB3;
+border-radius: 50px;
+margin: auto; 
+
+}
+
+input[type=text],[type=email], [type=password]{
+
+width: 470px;
+height: 35px;
+font: 14px normal normal uppercase helvatica, arial, serif;
+
+}
+
+ textarea{
+
+ 	width: 470px;
+ 	height: 110px;
+ 	font: 14px normal normal uppercase helvatica, arial, serif;
+
+
+ }
+ input[type=submit]{
+position: relative;
+width: 150px;
+height: 40px;
+border-radius: 20px;
+margin-left: 60px;
+border: 0px; 
+font: 14px normal normal uppercase helvatica, arial, serif;
+
+
+ }
+ input[type=reset]{
+position: relative;
+width: 150px;
+height: 40px;
+border-radius: 20px;
+margin-left: 60px;
+border: 0px; 
+font: 14px normal normal uppercase helvatica, arial, serif;
+
+
+ }
+ input[type=checkbox]{
+
+width: 15px;
+height:15px;
+border-radius: 15px;
+margin-left: 15px;
+border: 0px; 
+ }
+ input[type=radio]{
+
+width: 15px;
+height:15px;
+border-radius: 15px;
+margin-left: 15px;
+border: 0px; 
+}
+select{
+width: 90px;
+height:20px;
+
+border: 0px; 
+
+}
+p{
+	text-shadow: 0  1px  0 #fff;
+	font-size: 24px;
+}
+
+label{
+	margin: 11px 20px 0 0;
+	font-size: 16px;
+	color: black; 
+	text-transform: uppercase;
+
+}
